@@ -1,8 +1,10 @@
 {
-  "name": "trydo",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://trydo.rainbowit.net",
+  "homepage": {
+    "https://reedtlr.github.io/react-portfolio/"
+  },
   "basename": "/",
   "dependencies": {
     "@babel/core": "7.4.3",
@@ -87,6 +89,8 @@
   },
   "scripts": {
     "start": "node scripts/start.js",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
   },
@@ -104,9 +108,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": {
-    "https://reedtlr.github.io/react-portfolio"
   },
   "jest": {
     "collectCoverageFrom": [
