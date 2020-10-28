@@ -87,7 +87,7 @@
   },
   "scripts": {
     "start": "react-scripts scripts/start.js",
-    "build": "react-scripts scripts/build.js", 
+    "build": "react-scripts scripts/build.js",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts scripts/test.js",
