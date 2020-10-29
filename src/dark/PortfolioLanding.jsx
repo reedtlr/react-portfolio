@@ -21,7 +21,7 @@ const SlideList = [
 ]
 const PortfolioLanding = () => {
     let title = 'About Me',
-        description = 'Full-stack web developer / project manager leveraging a successful teaching career in Interdisciplinary Studies and experience in sales management with a love of coding. I enjoy the challenge of finding solutions that require an interdisciplinary approach.';
+        description = 'Full-stack web developer / project manager leveraging a successful teaching career in Interdisciplinary Studies with a love of coding. I enjoy the challenge of finding solutions that require an interdisciplinary approach.';
     const PostList = BlogContent.slice(0 , 3);
     return (
         <div className="active-dark">
