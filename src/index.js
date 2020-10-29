@@ -11,8 +11,8 @@ import './index.scss';
 
 // Home layout
 import Demo from './dark/PortfolioLanding';
-import MainDemo from './dark/PortfolioLanding';
-import Startup from './dark/PortfolioLanding';
+import MainDemo from './home/MainDemo';
+import Startup from './home/Startup';
 import Paralax from './home/Paralax';
 import HomePortfolio from './home/HomePortfolio';
 import DigitalAgency from './home/DigitalAgency';
