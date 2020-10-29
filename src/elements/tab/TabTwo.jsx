@@ -1,17 +1,6 @@
 import React, { Component } from "react";
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 
-
-class DownloadLink extends React.Component {
-    render() {
-        return (
-            <form method="get" action={this.props.href}>
-                <button type="submit">{this.props.children}</button>
-            </form>
-        )
-    }
-}
-
 class TabsTwo extends Component{
     render(){
         let 
@@ -76,7 +65,8 @@ class TabsTwo extends Component{
                                        </div>
                                     </TabPanel>
                                     
-                                    <button onclick={DownloadLink} href='https://drive.google.com/file/d/1RDSs88oL1Py_ZRDWseI1tRjBfUEya0wp/view?usp=sharing' className="rn-button-style--2 btn-solid"  type="submit" value="submit" name="submit">Download Resume</button>  
+                                   
+                                    <a href='https://drive.google.com/file/d/1RDSs88oL1Py_ZRDWseI1tRjBfUEya0wp/view?usp=sharing' className="rn-button-style--2 btn-solid"  type="button">Download Resume</a>  
 
                                 </Tabs>
                             </div>
