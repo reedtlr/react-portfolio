@@ -21,7 +21,7 @@ Project is created with:
 ## Sources
 This portfolio is created from a template at (https://themeforest.net/item/trydo-creative-agency-react-template/25457315). 
 
-![Image of the website](https://reedtlr.github.io/react-portfolio/images/screenshot1.png)
-![Image of the website](https://reedtlr.github.io/react-portfolio/images/screenshot2.png)
-![Image of the website](https://reedtlr.github.io/react-portfolio/images/screenshot3.png)
-![Image of the website](https://reedtlr.github.io/react-portfolio/images/screenshot4.png)
+![Image of the website](https://github.com/reedtlr/react-portfolio/blob/master/images/screenshot1.png)
+![Image of the website](https://github.com/reedtlr/react-portfolio/blob/master/images/screenshot2.png)
+![Image of the website](https://github.com/reedtlr/react-portfolio/blob/master/images/screenshot3.png)
+![Image of the website](https://github.com/reedtlr/react-portfolio/blob/master/images/screenshot4.png)
