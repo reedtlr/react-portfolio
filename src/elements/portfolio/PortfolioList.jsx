@@ -2,6 +2,13 @@ import React, { Component } from "react";
 
 const PortfolioListContent = [
     {
+        image: 'image-2',
+        category: 'Development',
+        title: 'Exploring National Parks During Covid: Live Search',
+        href: 'https://github.com/tutchings/exploringParksDuringCovidLiveSearch',
+        href2: 'https://exploringparksduringcovid.live/'
+    },
+    {
         image: 'image-1',
         category: 'Development',
         title: 'Travel Forecast Dashboard',
@@ -9,11 +16,11 @@ const PortfolioListContent = [
         href2: 'https://reedtlr.github.io/travel_forecast_dashboard/'
     },
     {
-        image: 'image-2',
+        image: 'image-3',
         category: 'Development',
-        title: 'Exploring National Parks During Covid: Live Search',
-        href: 'https://github.com/tutchings/exploringParksDuringCovidLiveSearch',
-        href2: 'https://exploringparksduringcovid.live/'
+        title: 'Daily Office Planner',
+        href: 'https://github.com/reedtlr/daily_office_planner',
+        href2: 'https://reedtlr.github.io/daily_office_planner/'
     }
 ]
 
