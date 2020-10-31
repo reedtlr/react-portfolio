@@ -26,11 +26,11 @@ class TabsTwo extends Component{
                                             <ul>
                                                 <li>
                                                     <a href="#about">Front-end <span> - Development</span></a>
-                                                    HTML5, CSS3, JavaScript ES6, React.js ...
+                                                    HTML5, CSS3, JavaScript ES6, React.js, Firebase ...
                                                 </li>
                                                 <li>
                                                     <a href="#about">Back-end <span> - Development</span></a>
-                                                    Node.js, Express.js ...
+                                                    Node.js, Express.js, Mongo.DB, MySQL ...
                                                 </li>
                                                 <li>
                                                     <a href="#about">Agile Project <span> - Management</span></a>
@@ -65,7 +65,7 @@ class TabsTwo extends Component{
                                        </div>
                                     </TabPanel>
                                     
-                                   
+                                    <br/>
                                     <a href='https://drive.google.com/file/d/1RDSs88oL1Py_ZRDWseI1tRjBfUEya0wp/view?usp=sharing' className="rn-button-style--2 btn-solid"  type="button">Download Resume</a>  
 
                                 </Tabs>
