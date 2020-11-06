@@ -5,7 +5,7 @@ const PortfolioListContent = [
         image: 'image-2',
         category: 'Development',
         title: 'Exploring National Parks During Covid: Live Search',
-        href: 'https://github.com/tutchings/exploringParksDuringCovidLiveSearch',
+        href: 'https://github.com/reedtlr/exploringParksDuringCovidLiveSearch',
         href2: 'https://exploringparksduringcovid.live/'
     },
     {
