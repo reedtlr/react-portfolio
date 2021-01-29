@@ -19,7 +19,7 @@ class ContactThree extends Component{
                         <div className="col-lg-6 order-2 order-lg-1">
                         <div className="section-title text-left mb--50">
                                 <h2 className="title">Contact</h2>
-                                <p className="description">I am available for freelance work. Take the plunge and contact me.</p>
+                                <p className="description">I am available for freelance projects. </p>
                             </div>
                             <div className="form-wrapper">
                             <MyForm/>

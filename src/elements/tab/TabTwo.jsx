@@ -26,19 +26,19 @@ class TabsTwo extends Component{
                                             <ul>
                                                 <li>
                                                     <a href="#about">Front-end <span> - Development</span></a>
-                                                    HTML5, CSS3, JavaScript ES6, React.js, Firebase ...
+                                                    HTML5, CSS3, JavaScript, JQuery, React ...
                                                 </li>
                                                 <li>
                                                     <a href="#about">Back-end <span> - Development</span></a>
-                                                    Node.js, Express.js, Mongo.DB, MySQL ...
+                                                    Node, Express, SQL, MongoDB, Next ...
                                                 </li>
                                                 <li>
-                                                    <a href="#about">Agile Project <span> - Management</span></a>
-                                                   Scrum daily, Incremental change, Resolve issues quickly, Reduce risk ...   
+                                                    <a href="#about">Project <span> - Management</span></a>
+                                                   Scrum daily, Agile Management ...   
                                                 </li>
                                                 <li>
-                                                    <a href="#about">Web and user interface design<span> - Development</span></a>
-                                                    Mobile first, Responsive design, Streamline for high ratings in Lighthouse ...
+                                                    <a href="#about">Web <span> - Development</span></a>
+                                                    Mobile first, Serverless, Testing, PWA, AWS Services ...
                                                 </li>
                                             </ul>
                                         </div>
@@ -50,7 +50,7 @@ class TabsTwo extends Component{
                                        <div className="single-tab-content">
                                            <ul>
                                                <li>
-                                                   <a href="/service">Certificate in Web Development<span> - University of North Carolina Chapel Hill</span></a> current
+                                                   <a href="/service">Certificate in Web Development<span> - University of North Carolina Chapel Hill</span></a> 2020-2021
                                                </li>
                                                <li>
                                                    <a href="/service">PhD in Soical, Political, Ethical, and Cultural Thought<span> - Virginia Tech</span></a> 2012
