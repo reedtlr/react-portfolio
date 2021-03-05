@@ -50,16 +50,16 @@ class TabsTwo extends Component{
                                        <div className="single-tab-content">
                                            <ul>
                                                <li>
-                                                   <a href="/service">Certificate in Web Development<span> - University of North Carolina Chapel Hill</span></a> 2020-2021
+                                                   <a href="/service">Certificate in Web Development<span> - University of North Carolina Chapel Hill</span></a> 
                                                </li>
                                                <li>
-                                                   <a href="/service">PhD in Soical, Political, Ethical, and Cultural Thought<span> - Virginia Tech</span></a> 2012
+                                                   <a href="/service">PhD in Soical, Political, Ethical, and Cultural Thought<span> - Virginia Tech</span></a>
                                                </li>
                                                <li>
-                                                   <a href="/service">MPhil in Economics and Philosophy<span> - Erasmus University Rotterdam, the Netherlands</span></a> 2004
+                                                   <a href="/service">MPhil in Economics and Philosophy<span> - Erasmus University Rotterdam, the Netherlands</span></a> 
                                                </li>
                                                <li>
-                                                   <a href="/service">BA in Philosophy and History<span> - University of New Mexico</span></a> 2001
+                                                   <a href="/service">BA in Philosophy and History<span> - University of New Mexico</span></a>
                                                </li>
                                            </ul>
                                        </div>

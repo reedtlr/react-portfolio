@@ -20,7 +20,7 @@ const PortfolioListContent = [
         hrefTitle2: 'Live Demo'
     },
     {
-        image: 'image-4',
+        image: 'image-1',
         category: 'Development',
         title: 'ASGM React.js Frontend',
         href: 'https://github.com/reedtlr/ASGMfrontEnd',
