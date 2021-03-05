@@ -27,34 +27,35 @@ const PortfolioListContent = [
         href2: 'https://asgmwfu.com/about.html',
         hrefTitle: 'Github Repository',
         hrefTitle2: 'Live Demo'
-    },
-    {
-        image: 'image-1',
-        category: 'Development',
-        title: 'MediaInfo Python Lambda',
-        href: 'https://github.com/reedtlr/mediaInfo-python-lambda',
-        href2: 'http://dronezones.io/',
-        hrefTitle: 'Github Repository',
-        hrefTitle2: 'Project Demo'
-    },
-    {
-        image: 'image-7',
-        category: 'Development',
-        title: 'User Directory with React',
-        href: 'https://github.com/reedtlr/user-directory-with-react',
-        href2: 'https://reedtlr.github.io/user-directory-with-react/',
-        hrefTitle: 'Github Repository',
-        hrefTitle2: 'Live Demo'
-    },
-    {
-        image: 'image-8',
-        category: 'Development',
-        title: 'Budget Tracker with IndexedDB',
-        href: 'https://github.com/reedtlr/budget-tracker-with-indexedDB',
-        href2: 'https://safe-escarpment-35566.herokuapp.com/',
-        hrefTitle: 'Github Repository',
-        hrefTitle2: 'Live Demo'
     }
+    // ,
+    // {
+    //     image: 'image-1',
+    //     category: 'Development',
+    //     title: 'MediaInfo Python Lambda',
+    //     href: 'https://github.com/reedtlr/mediaInfo-python-lambda',
+    //     href2: 'http://dronezones.io/',
+    //     hrefTitle: 'Github Repository',
+    //     hrefTitle2: 'Project Demo'
+    // },
+    // {
+    //     image: 'image-7',
+    //     category: 'Development',
+    //     title: 'User Directory with React',
+    //     href: 'https://github.com/reedtlr/user-directory-with-react',
+    //     href2: 'https://reedtlr.github.io/user-directory-with-react/',
+    //     hrefTitle: 'Github Repository',
+    //     hrefTitle2: 'Live Demo'
+    // },
+    // {
+    //     image: 'image-8',
+    //     category: 'Development',
+    //     title: 'Budget Tracker with IndexedDB',
+    //     href: 'https://github.com/reedtlr/budget-tracker-with-indexedDB',
+    //     href2: 'https://safe-escarpment-35566.herokuapp.com/',
+    //     hrefTitle: 'Github Repository',
+    //     hrefTitle2: 'Live Demo'
+    // }
 ]
 
 class PortfolioList extends Component{

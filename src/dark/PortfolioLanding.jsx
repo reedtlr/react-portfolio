@@ -22,7 +22,7 @@ const SlideList = [
 const PortfolioLanding = () => {
   let title = "About Me",
     description =
-      "Full Stack Web Developer with a background in Interdisciplinary Studies / Philosophy and life-long dedication to learning. Effective at problem solving and managing team workflow to develop efficient user-centered applications. Known for an attention to detail in complex projects and a willingness to learn new frameworks and languages to reach the optimal outcome. ";
+      "Thorough and meticulous Full Stack Developer applying strong technical skill set towards building user-centered applications. Strategic problem-solver with the persistence necessary to execute goals. Drawing on interdisciplinary research skills to break through preconceived patterns to find innovative solutions. ";
   const PostList = BlogContent.slice(0, 3);
   return (
     <div className="active-dark">
@@ -91,7 +91,7 @@ const PortfolioLanding = () => {
                   <div className="thumbnail">
                     <img
                       className="w-100"
-                      src={require("./../../public/assets/images/about/about-8.jpg")}
+                      src={require("./../../public/assets/images/about/about-6.jpg")}
                       alt="About Images"
                     />
                   </div>
