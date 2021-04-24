@@ -53,6 +53,9 @@ class TabsTwo extends Component{
                                                    <a href="/service">Certificate in Web Development<span> - University of North Carolina Chapel Hill</span></a> 
                                                </li>
                                                <li>
+                                                   <a href="/service">Cloud Practitioner <span> - Amazon Web Services</span></a> 
+                                               </li>
+                                               <li>
                                                    <a href="/service">PhD in Soical, Political, Ethical, and Cultural Thought<span> - Virginia Tech</span></a>
                                                </li>
                                                <li>

@@ -14,10 +14,9 @@
     "babel-loader": "8.0.5",
     "babel-plugin-named-asset-import": "^0.3.7",
     "babel-preset-react-app": "^9.1.2",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^4.5.3",
     "camelcase": "^5.2.0",
     "case-sensitive-paths-webpack-plugin": "2.2.0",
-    "create-react-app": "^4.0.3",
     "css-loader": "2.1.1",
     "dotenv": "6.2.0",
     "dotenv-expand": "4.2.0",
@@ -49,10 +48,10 @@
     "postcss-preset-env": "6.6.0",
     "postcss-safe-parser": "4.0.1",
     "react": "^16.14.0",
-    "react-accessible-accordion": "^3.3.4",
+    "react-accessible-accordion": "^3.3.3",
     "react-animate-on-scroll": "^2.1.5",
     "react-app-polyfill": "^1.0.6",
-    "react-bootstrap": "^1.5.0",
+    "react-bootstrap": "^1.4.0",
     "react-countup": "^4.3.3",
     "react-dev-utils": "^9.1.0",
     "react-dom": "^16.14.0",
@@ -60,14 +59,14 @@
     "react-icons": "^3.11.0",
     "react-image-lightbox": "^5.1.1",
     "react-modal-video": "^1.2.6",
-    "react-parallax": "^3.2.1",
+    "react-parallax": "^3.1.2",
     "react-particles-js": "^2.7.1",
     "react-reveal": "^1.2.2",
     "react-router-dom": "^5.2.0",
-    "react-scroll-up": "^1.3.7",
+    "react-scroll-up": "^1.3.5",
     "react-scrollspy": "^3.4.3",
     "react-slick": "^0.24.0",
-    "react-tabs": "^3.2.0",
+    "react-tabs": "^3.1.1",
     "react-text-loop": "^2.3.0",
     "react-tilt": "^0.1.4",
     "react-video-tag": "0.0.10",
@@ -81,15 +80,13 @@
     "ts-pnp": "1.1.2",
     "url-loader": "1.1.2",
     "webpack": "4.29.6",
-    "webpack-dev-server": "^3.11.2",
+    "webpack-dev-server": "^3.11.0",
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "4.2.0"
   },
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "node scripts/test.js"
   },
   "eslintConfig": {
@@ -156,8 +153,5 @@
     "presets": [
       "react-app"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
   }
 }

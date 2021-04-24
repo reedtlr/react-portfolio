@@ -3,7 +3,7 @@ import React, { Component } from "react";
 const PortfolioListContent = [
     {
         image: 'image-2',
-        category: 'Development',
+        category: 'role: Frontend/Lead',
         title: 'Exploring National Parks During Covid: Live Search',
         href: 'https://github.com/reedtlr/exploringParksDuringCovidLiveSearch',
         href2: 'https://exploringparksduringcovid.live/',
@@ -12,7 +12,7 @@ const PortfolioListContent = [
     },
     {
         image: 'image-3',
-        category: 'Development',
+        category: 'role: Full-Stack',
         title: 'DroneZones Next.js Frontend',
         href: 'https://github.com/reedtlr/dronezonesfrontend',
         href2: 'http://dronezones.io/',
@@ -21,8 +21,8 @@ const PortfolioListContent = [
     },
     {
         image: 'image-1',
-        category: 'Development',
-        title: 'ASGM React.js Frontend',
+        category: 'role: Full-Stack',
+        title: 'ASGM Vue.js Frontend',
         href: 'https://github.com/reedtlr/ASGMfrontEnd',
         href2: 'https://asgmwfu.com/about.html',
         hrefTitle: 'Github Repository',

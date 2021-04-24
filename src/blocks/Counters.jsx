@@ -1,5 +1,5 @@
 import React from 'react'
-import TeamOne from "./team/TeamOne";
+// import TeamOne from "./team/TeamOne";
 import PageHelmet from "../component/common/Helmet";
 import Breadcrumb from "../elements/common/Breadcrumb";
 import ScrollToTop from 'react-scroll-up';
@@ -71,4 +71,4 @@ const Counters = () => {
     )
 }
 
-export default Counters
+export default Counters;
